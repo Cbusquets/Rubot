@@ -6,5 +6,4 @@ module Battery
 
   end
 
-
 end
